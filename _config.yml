@@ -8,8 +8,8 @@ language: 'en-uk'
 baseurl: /jasper2/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: AigMaa
+description: Welcome to AigMaa Solutions
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
