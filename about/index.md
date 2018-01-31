@@ -8,6 +8,8 @@ class: page-template
 subclass: 'post page'
 ---
 
+!(jasper2/assets/images/about.png)
+
 AIGMAA was founded with the aims and objectives of establishing a call centre which prides itself on high levels of customer service through a bespoken multi-channel approach.
 
 The firm is comprised entirely of a highly experiences and dedicated management team which provides a fluid and dynamic leadership structure for the company as well as the ability to adapt to changing business environments where necessary. We combine the greatest workforce with the best technology to ensure quality, performance and on time delivery.
