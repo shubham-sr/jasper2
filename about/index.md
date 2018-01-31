@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-!(jasper2/assets/images/about.png)
+![](jasper2/assets/images/about.png)
 
 AIGMAA was founded with the aims and objectives of establishing a call centre which prides itself on high levels of customer service through a bespoken multi-channel approach.
 
